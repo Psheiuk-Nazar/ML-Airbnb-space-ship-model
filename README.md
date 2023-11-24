@@ -37,3 +37,19 @@ Unzip documents
 Make a model
 
 9. Run training.ipynb
+
+You will have a model name seg_model.h5 in the end of the run
+
+10. Test a model run model_inference.ipynb
+
+Results
+You will have all result in validation.png files
+
+Author
+HENRIQUE MENDONÇA
+Kaggle Profile: https://www.kaggle.com/hmendonca
+K Scott Mader
+https://www.kaggle.com/kmader
+https://www.kaggle.com/code/hmendonca/u-net-model-with-submission
+Nazar Psheiuk
+Kaggle Profile: https://www.kaggle.com/psheiuk
