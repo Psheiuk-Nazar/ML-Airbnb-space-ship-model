@@ -1,9 +1,9 @@
 import os
 import zipfile
 
-archive_path = "C:\\Users\\Owner\\Documents\\Portfolio\\Ships\\airbus-ship-detection.zip"
+archive_path = ".\\airbus-ship-detection.zip"
 
-extracted_path = "C:\\Users\\Owner\\Documents\\Portfolio\\Ships"
+extracted_path = ".\\Ships"
 
 os.makedirs(extracted_path, exist_ok=True)
 
