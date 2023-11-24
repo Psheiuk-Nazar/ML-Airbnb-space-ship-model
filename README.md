@@ -51,5 +51,6 @@ Kaggle Profile: https://www.kaggle.com/hmendonca
 K Scott Mader
 https://www.kaggle.com/kmader
 https://www.kaggle.com/code/hmendonca/u-net-model-with-submission
+Author python format of ML:
 Nazar Psheiuk
 Kaggle Profile: https://www.kaggle.com/psheiuk
