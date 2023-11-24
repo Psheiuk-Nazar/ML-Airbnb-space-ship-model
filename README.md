@@ -54,3 +54,4 @@ https://www.kaggle.com/code/hmendonca/u-net-model-with-submission
 Author python format of ML:
 Nazar Psheiuk
 Kaggle Profile: https://www.kaggle.com/psheiuk
+kaggle notebook: https://www.kaggle.com/code/psheiuk/u-net-model
