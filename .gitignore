@@ -1,0 +1,6 @@
+venv
+.idea
+test_v2
+train_v2
+sample_submission_v2.csv
+train_ship_segmentations_v2.csv
